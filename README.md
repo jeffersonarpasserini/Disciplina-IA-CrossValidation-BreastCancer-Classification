@@ -1,5 +1,7 @@
 # Breast Cancer Dataset Classification
 
+## Task develop during IA Class in FEF Information Systems bachelor course
+
 ## Data Exploration
 ## Enconding Y dataset (labels)
 ## Cross Validation
